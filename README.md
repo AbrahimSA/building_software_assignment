@@ -1,5 +1,5 @@
 # Building Robust Software Summative Assignment
-By the end of this course, you will build an installable Python package that analyzes data retrieved from the GitHub API (or another web data provider of your choice). You'll work in teams and collaborate using tools on GitHub.
+ Installable Python package that analyzes data retrieved from the GitHub API (or another web data provider of your choice). 
 
 
 ## Package API specifications
