@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: Analysis
+Version: 0.1.0
+Summary: Building Robust Software Summative Assignment
+Author-email: Abrahim Senra Abrahao <abrahimsabrahao@yahoo.ca>
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.11.0
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pyplot
+Requires-Dist: yaml
+Requires-Dist: requests
+Requires-Dist: typing
+Requires-Dist: os
+Requires-Dist: pandas
+Requires-Dist: statistics
+
+# building_software_assignment
+<!-- Building Robust Software Summative Assignment
+
+# !pip install git+https://github.com/abrahimsa/building_software_assignment
+# from building_software_assignment import Analysis
+
+# analysis_obj = Analysis('config.yml')
+# analysis_obj.load_data()
+
+# analysis_output = analysis_obj.compute_analysis()
+# print(analysis_output)
+
+# analysis_figure = analysis_obj.plot_data() -->

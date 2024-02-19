@@ -1,0 +1,23 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "Analysis"
+authors = [
+    {name = "Abrahim Senra Abrahao", email = "abrahimsabrahao@yahoo.ca"},
+]
+description = "Building Robust Software Summative Assignment"
+version = "0.1.0"
+dependencies = ["matplotlib", "numpy", "pandas", "requests", "pyyaml",  "statistics", "logging"]
+requires-python = ">=3.10.0"
+readme = "README.md"
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+]
+
+[project.scripts]
+load_data = "Analysis:load_data"
+compute_analysis = "Analysis:compute_analysis"
+plot_data = "Analysis:plot_data"
+notify_done = "Analysis:notify_done"

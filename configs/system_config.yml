@@ -1,0 +1,9 @@
+ntfy_topic: "dsi_c2_brs"
+ntfy_title: 'Building Robust Software Summative Assignment - Abrahim'
+plot_color: 'white'
+plot_title: 'Amount of Inspetion per met type'
+plot_x_title: "Years"
+plot_y_title: "Amount of Inspetion"
+figure_width_size: 8
+figure_height_size: 10
+default_save_path: "plot_img.png"
